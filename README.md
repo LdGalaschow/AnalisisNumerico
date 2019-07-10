@@ -1,2 +1,2 @@
 # AnalisisNumerico
-Simulacion Ecuaciones de Lotka-Volterra. Euler.
+Simulacion Ecuaciones de Lotka-Volterra. Euler,Runge-Kutta.
